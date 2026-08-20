@@ -1,8 +1,8 @@
 {
   "language": "rust",
   "label": "Rust",
-  "version": "1.97.1",
-  "updatedAt": "2026-08-19T20:13:57.310Z",
+  "version": "1.98.0",
+  "updatedAt": "2026-08-20T20:15:58.892Z",
   "categories": [
     {
       "name": "Core Types",
