@@ -1,8 +1,8 @@
 {
   "language": "nodejs",
   "label": "Node.js",
-  "version": "26.7.0",
-  "updatedAt": "2026-08-25T20:15:45.423Z",
+  "version": "26.8.1",
+  "updatedAt": "2026-08-26T22:33:55.221Z",
   "categories": [
     {
       "name": "Debug & Testing",
