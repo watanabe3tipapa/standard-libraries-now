@@ -1,8 +1,8 @@
 {
   "language": "python",
   "label": "Python",
-  "version": "3.14.8",
-  "updatedAt": "2026-10-09T00:01:21.458Z",
+  "version": "3.15.0",
+  "updatedAt": "2026-10-09T23:39:08.566Z",
   "categories": [
     {
       "name": "Data Types",
@@ -1013,6 +1013,24 @@
           "status": "deprecated"
         },
         {
+          "name": "profiling",
+          "url": "https://docs.python.org/3/library/profiling.html#module-profiling",
+          "description": "Python profiling tools for performance analysis.",
+          "status": "stable"
+        },
+        {
+          "name": "profiling.sampling",
+          "url": "https://docs.python.org/3/library/profiling.sampling.html#module-profiling.sampling",
+          "description": "Statistical sampling profiler for Python processes.",
+          "status": "stable"
+        },
+        {
+          "name": "profiling.tracing",
+          "url": "https://docs.python.org/3/library/profiling.tracing.html#module-profiling.tracing",
+          "description": "Deterministic tracing profiler for Python programs.",
+          "status": "stable"
+        },
+        {
           "name": "spwd",
           "url": "https://docs.python.org/3/library/spwd.html#module-spwd",
           "description": "Removed in 3.13.",
@@ -1057,6 +1075,12 @@
           "name": "math",
           "url": "https://docs.python.org/3/library/math.html#module-math",
           "description": "Mathematical functions (sin() etc.).",
+          "status": "stable"
+        },
+        {
+          "name": "math.integer",
+          "url": "https://docs.python.org/3/library/math.integer.html#module-math.integer",
+          "description": "Integer-specific mathematics functions.",
           "status": "stable"
         },
         {
@@ -1107,12 +1131,6 @@
           "status": "stable"
         },
         {
-          "name": "cProfile",
-          "url": "https://docs.python.org/3/library/profile.html#module-cProfile",
-          "description": "",
-          "status": "stable"
-        },
-        {
           "name": "doctest",
           "url": "https://docs.python.org/3/library/doctest.html#module-doctest",
           "description": "Test pieces of code within docstrings.",
@@ -1127,13 +1145,13 @@
         {
           "name": "profile",
           "url": "https://docs.python.org/3/library/profile.html#module-profile",
-          "description": "Python source profiler.",
-          "status": "stable"
+          "description": "Pure Python profiler (deprecated).",
+          "status": "deprecated"
         },
         {
           "name": "pstats",
-          "url": "https://docs.python.org/3/library/profile.html#module-pstats",
-          "description": "Statistics object for use with the profiler.",
+          "url": "https://docs.python.org/3/library/pstats.html#module-pstats",
+          "description": "Statistics object for analyzing profiler output.",
           "status": "stable"
         },
         {
