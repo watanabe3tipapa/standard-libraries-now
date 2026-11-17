@@ -1,8 +1,8 @@
 {
   "language": "tauri",
   "label": "Tauri",
-  "version": "2.12.4",
-  "updatedAt": "2026-11-15T23:37:34.594Z",
+  "version": "2.12.5",
+  "updatedAt": "2026-11-17T02:40:21.180Z",
   "categories": [
     {
       "name": "Core",
